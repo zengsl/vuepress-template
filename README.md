@@ -4,6 +4,12 @@
 
 可以参考[飞跃高山与大洋的鱼的视频教程](https://www.bilibili.com/video/av43316513)
 
+## 本地启动
+
+```shell
+yarn docs:dev
+```
+
 ## 博客配置
 
 配置文件路径：.vuepress/config.js
