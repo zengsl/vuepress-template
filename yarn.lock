@@ -1501,7 +1501,7 @@
     markdown-it-table-of-contents "^0.4.0"
     prismjs "^1.13.0"
 
-"@vuepress/plugin-active-header-links@1.9.9", "@vuepress/plugin-active-header-links@^1.5.4":
+"@vuepress/plugin-active-header-links@1.9.9", "@vuepress/plugin-active-header-links@^1.9.9":
   version "1.9.9"
   resolved "https://registry.npmjs.org/@vuepress/plugin-active-header-links/-/plugin-active-header-links-1.9.9.tgz#fad96c550bea0b204fe16266cff1405e8636c1e1"
   integrity sha512-lTnIhbuALjOjFts33jJD8r4ScNBxnZ6MtmePKEwvYlC3J9uvngs1Htpb1JzLEX9QCydt+bhLmZ92bTXn/PdTpg==
@@ -1509,7 +1509,7 @@
     "@vuepress/types" "1.9.9"
     lodash.debounce "^4.0.8"
 
-"@vuepress/plugin-back-to-top@^1.5.4":
+"@vuepress/plugin-back-to-top@^1.9.9":
   version "1.9.9"
   resolved "https://registry.npmjs.org/@vuepress/plugin-back-to-top/-/plugin-back-to-top-1.9.9.tgz#eedd5b08e11790cd994636b458188fd40205e967"
   integrity sha512-8bNsdZ0Dr96OdcoJ67dxCx1ysXpeTHma8w+YSsqBJoWGEOucBr0nW9oaDH85yoOtpiriWBlhUO32/Q0ojJtMfA==
@@ -1539,7 +1539,7 @@
     "@vuepress/types" "1.9.9"
     cross-spawn "^6.0.5"
 
-"@vuepress/plugin-medium-zoom@^1.5.4":
+"@vuepress/plugin-medium-zoom@^1.9.9":
   version "1.9.9"
   resolved "https://registry.npmjs.org/@vuepress/plugin-medium-zoom/-/plugin-medium-zoom-1.9.9.tgz#a6321fb944c5cb3ab840c01b943e23046b37b2dd"
   integrity sha512-P8UfqUv0l28Td2COhvhVinBMiHyams8KKQVwnr6ZboFcRVG5xOsghtDbO++jn78rnszOz8OsLXilPMoiJ8iECQ==
@@ -1547,7 +1547,7 @@
     "@vuepress/types" "1.9.9"
     medium-zoom "^1.0.4"
 
-"@vuepress/plugin-nprogress@1.9.9", "@vuepress/plugin-nprogress@^1.8.2":
+"@vuepress/plugin-nprogress@1.9.9", "@vuepress/plugin-nprogress@^1.9.9":
   version "1.9.9"
   resolved "https://registry.npmjs.org/@vuepress/plugin-nprogress/-/plugin-nprogress-1.9.9.tgz#4fee4818ddc8ddc6a1778b7f2b74ab784c90915d"
   integrity sha512-+3fLxjwTLH8MeU54E7i1ovRu9KzBom2lvSeUsu9B8PuLyrETAqW7Pe1H66awEEALEe0ZnnEU4d7SeVe9ljsLAQ==
@@ -1555,7 +1555,7 @@
     "@vuepress/types" "1.9.9"
     nprogress "^0.2.0"
 
-"@vuepress/plugin-pwa@^1.5.4":
+"@vuepress/plugin-pwa@^1.9.9":
   version "1.9.9"
   resolved "https://registry.npmjs.org/@vuepress/plugin-pwa/-/plugin-pwa-1.9.9.tgz#7e8dc0ce9081552c840d3ced02a0bbb52d730c5b"
   integrity sha512-69kTlTl/mdWSD/+odz73oXvi2SuT8GO+e7YlPZFloeZR3kffC6ywYMip6m4MOalKOSUf0XzD3hCqCNVha6vo8Q==
@@ -8919,7 +8919,7 @@ vuepress-plugin-smooth-scroll@^0.0.3:
   dependencies:
     smoothscroll-polyfill "^0.4.3"
 
-vuepress@^1.5.4:
+vuepress@^1.9.9:
   version "1.9.9"
   resolved "https://registry.npmjs.org/vuepress/-/vuepress-1.9.9.tgz#75b313f48a21b2eeb435cad52333f26b3b8a7404"
   integrity sha512-CU94W3EdWaCavGx2VSvQJMI/hyv+m/YMdrvJJw67EVfmmJJDb1iTGrilDgLd0qsyrXzBy0Ru9Qi6rkf4IwcOTg==

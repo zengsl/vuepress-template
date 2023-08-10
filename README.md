@@ -4,6 +4,9 @@
 
 可以参考[飞跃高山与大洋的鱼的视频教程](https://www.bilibili.com/video/av43316513)
 
+> node 使用14.X 高版本可能会报错
+> vuepress1.x 推荐用yarn
+
 ## 本地启动
 
 ```shell
